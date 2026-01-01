@@ -1,0 +1,18 @@
+{
+    "auto_save": {
+        "enabled": true,
+        "interval": 5,
+        "max_versions": 10
+    },
+    "network": {
+        "timeout": 30,
+        "max_results": 20
+    },
+    "ai": {
+        "api_key": "sk-nzfpdjqfdvbfnkenaxpgejrrsmhevpohtnljolyhqwnduycl",
+        "base_url": "https://api.siliconflow.cn/v1",
+        "timeout": 60,
+        "max_history": 50,
+        "model": "Qwen/QwQ-32B"
+    }
+}

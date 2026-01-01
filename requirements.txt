@@ -1,0 +1,15 @@
+# 主依赖
+git+https://github.com/TomSchimansky/CustomTkinter.git
+git+https://github.com/chempy/chempy.git
+matplotlib
+numpy
+requests
+pyvista
+PySide6
+pytest
+
+# 辅助依赖
+python-dotenv
+fpdf
+beautifulsoup4
+lxml
